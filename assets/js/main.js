@@ -20,8 +20,6 @@ function convertPokemonToLi(pokemon) {
                      alt="${pokemon.name}">
                      
             </div>
-            
-           
             <div id="pokeStatsContainer">
             <h1>${pokemon.name} stats</h1>
             <ol class="pokeStatsRef">
